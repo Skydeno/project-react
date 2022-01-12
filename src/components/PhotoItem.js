@@ -10,7 +10,7 @@ function PhotoItem(props) {
           <figure className='photos__item__pic-wrap' data-category={props.label}>
             <img
               className='photos__item__img'
-              alt='Travel Image'
+              alt=''
               src={props.src}
             />
           </figure>
