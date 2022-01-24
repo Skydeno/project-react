@@ -1,3 +1,4 @@
-# zaliczenieSPA
+# project-react
 
-Kod źródłowy cały zawarty powyżej
+Witryna typu SPA napisana w react.js
+Użyte zostały pakiety react, react-router, react-hook
