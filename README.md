@@ -1,7 +1,12 @@
 # project-react
 
-Witryna typu SPA napisana w react.js
+SPA site with use of react
 
-Użyte zostały pakiety react, react-router, react-hook
+## Technologies
 
-Link do domeny na której można wyświetlić strone https://hardcore-sinoussi-c6f808.netlify.app/
+-react
+-react-router
+-react-hook
+
+## Live deploy 
+https://hardcore-sinoussi-c6f808.netlify.app/
